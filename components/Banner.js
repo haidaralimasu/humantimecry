@@ -119,7 +119,7 @@ const Banner = () => {
             height: 600,
             borderRadius: 10,
             width: 500,
-            marginBottom: "200px",
+            marginBottom: "100px",
           }}
           src="images/1.svg"
           alt=""

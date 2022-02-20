@@ -37,76 +37,16 @@ const Testimonial = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 d-flex">
-            <div className="my-auto wow fadeInUp" data-wow-duration="1500ms">
-              <div id="testimonials-slider-pager">
-                <div className="testimonials-slider-pager-one">
-                  <span
-                    onClick={goNext}
-                    className="pager-item active"
-                    data-slide-index="0"
-                  >
-                    <img src="/images/1.svg" alt="Awesome Image" />
-                  </span>
-                  <span
-                    onClick={goPrev}
-                    className="pager-item"
-                    data-slide-index="1"
-                  >
-                    <img src="/images/2.svg" alt="Awesome Image" />
-                  </span>
-                  <span
-                    onClick={goNext}
-                    className="pager-item"
-                    data-slide-index="2"
-                  >
-                    <img src="/images/3.svg" alt="Awesome Image" />
-                  </span>
-                  <span
-                    onClick={goPrev}
-                    className="pager-item"
-                    data-slide-index="3"
-                  >
-                    <img src="/images/5.svg" alt="Awesome Image" />
-                  </span>
-                  <span
-                    onClick={goNext}
-                    className="pager-item"
-                    data-slide-index="4"
-                  >
-                    <img src="/images/12.svg" alt="Awesome Image" />
-                  </span>
-                  <span
-                    onClick={goPrev}
-                    className="pager-item"
-                    data-slide-index="5"
-                  >
-                    <img src="/images/12.svg" alt="Awesome Image" />
-                  </span>
-                </div>
-                <div className="testimonials-slider-pager-two">
-                  <a
-                    href="#"
-                    className="pager-item active"
-                    data-slide-index="0"
-                  >
-                    <img src="/images/globe.svg" alt="Awesome Image" />
-                  </a>
-                  <a href="#" className="pager-item" data-slide-index="1">
-                    <img src="/images/1.svg" alt="Awesome Image" />
-                  </a>
-                  <a href="#" className="pager-item" data-slide-index="2">
-                    <img src="/images/2.svg" alt="Awesome Image" />
-                  </a>
-                  <a href="#" className="pager-item" data-slide-index="3">
-                    <img src="/images/3.svg" alt="Awesome Image" />
-                  </a>
-                  <a href="#" className="pager-item" data-slide-index="4">
-                    <img src="/images/5.svg" alt="Awesome Image" />
-                  </a>
-                  <a href="#" className="pager-item" data-slide-index="5">
-                    <img src="/images/12.svg" alt="Awesome Image" />
-                  </a>
-                </div>
+            <div id="testimonials-slider-pager">
+              <div className="testimonials-slider-pager-two">
+                <a
+                  style={{ width: 650, marginLeft: 70 }}
+                  href="#"
+                  className="pager-item active"
+                  data-slide-index="0"
+                >
+                  <img src="/images/globe.svg" alt="Awesome Image" />
+                </a>
               </div>
             </div>
           </div>

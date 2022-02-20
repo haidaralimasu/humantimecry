@@ -8,16 +8,14 @@ const CallToAction = () => {
         <div className="cta-one__circle-2"></div>
         <div className="cta-one__circle-3"></div>
         <div className="cta-one__content text-center">
-          <h3>
-            Mint Your HTC Today & <br /> be part of amazing community
-          </h3>
+          <h3>Follow us on Twitter</h3>
 
           <a
-            href="https://www.facebook.com/Q96LLC"
+            href="https://twitter.com/Qualo_96"
             target="blank"
             className="thm-btn cta-one__btn"
           >
-            Facebook
+            Twitter
           </a>
         </div>
       </div>

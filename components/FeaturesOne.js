@@ -20,7 +20,7 @@ const FeaturesOne = () => {
           className="cta-three__shape-1"
         />
         <img
-          src="/images/1.svg"
+          src="/images/4.svg"
           style={{ width: 600, marginTop: 200 }}
           alt=""
           className="cta-three__moc"
@@ -42,16 +42,16 @@ const FeaturesOne = () => {
                       highs in our life, and I want you to know that you can get
                       through anything. Always believe in yourself and your game
                       plan. You have every right to be here and live the way you
-                      choose but be mindful of one another as well. Don’t be sad
-                      or angry, be happy because life is such a beautiful gift.
-                      I want you to realize this because our time on earth; is
-                      declining as life progresses. So, we must live our life to
-                      our fullest potential. Just as you feel like giving up,
-                      look at your previous step, and realize that you are one
-                      step closer to your goal. Time is the most valuable thing
-                      a person can have, and I would like you to make use of
-                      every second. Our NFT consists of 10,000 unique
-                      properties; check out some more examples below.
+                      choose, but be mindful of one another as well. Don't be
+                      sad or angry, be happy because life is such a beautiful
+                      gift. I want you to realize this because our time on
+                      earth; is declining as life progresses. So, we must live
+                      our lives to their fullest potential. Just as you feel
+                      like giving up, take a look at your previous step, and
+                      realize that you are one step closer to your goal. Time is
+                      the most valuable thing a person can have, and I would
+                      like you to make use of every second. There are a total of
+                      10,000 NFTs in our collection.
                     </p>
                   </div>
                 </div>

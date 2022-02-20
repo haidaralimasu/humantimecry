@@ -57,13 +57,6 @@ const Screenshots = () => {
               <div className="item">
                 <img
                   style={{ height: "500px", width: "350px", borderRadius: 10 }}
-                  src="images/1.svg"
-                  alt=""
-                />
-              </div>
-              <div className="item">
-                <img
-                  style={{ height: "500px", width: "350px", borderRadius: 10 }}
                   src="images/2.svg"
                   alt=""
                 />
@@ -85,7 +78,7 @@ const Screenshots = () => {
               <div className="item">
                 <img
                   style={{ height: "500px", width: "350px", borderRadius: 10 }}
-                  src="images/12.svg"
+                  src="images/6.svg"
                   alt=""
                 />
               </div>

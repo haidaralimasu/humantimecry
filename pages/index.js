@@ -26,7 +26,7 @@ const Home = () => (
 
     <Screenshots />
     <Testimonial />
-    <Brands />
+
     <Faq />
 
     <CallToAction />
