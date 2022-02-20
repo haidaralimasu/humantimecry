@@ -89,37 +89,22 @@ const Testimonial = () => {
                     className="pager-item active"
                     data-slide-index="0"
                   >
-                    <img src="/assets/images/globe.svg" alt="Awesome Image" />
+                    <img src="/images/globe.svg" alt="Awesome Image" />
                   </a>
                   <a href="#" className="pager-item" data-slide-index="1">
-                    <img
-                      src="https://gateway.pinata.cloud/ipfs/QmScaJhCfMtP7zEccxGW3iYgP25CUBFiVVTuHZCpxB1Yce/167.png"
-                      alt="Awesome Image"
-                    />
+                    <img src="/images/1.svg" alt="Awesome Image" />
                   </a>
                   <a href="#" className="pager-item" data-slide-index="2">
-                    <img
-                      src="https://gateway.pinata.cloud/ipfs/QmScaJhCfMtP7zEccxGW3iYgP25CUBFiVVTuHZCpxB1Yce/46.png"
-                      alt="Awesome Image"
-                    />
+                    <img src="/images/2.svg" alt="Awesome Image" />
                   </a>
                   <a href="#" className="pager-item" data-slide-index="3">
-                    <img
-                      src="https://gateway.pinata.cloud/ipfs/QmScaJhCfMtP7zEccxGW3iYgP25CUBFiVVTuHZCpxB1Yce/18.png"
-                      alt="Awesome Image"
-                    />
+                    <img src="/images/3.svg" alt="Awesome Image" />
                   </a>
                   <a href="#" className="pager-item" data-slide-index="4">
-                    <img
-                      src="https://gateway.pinata.cloud/ipfs/QmScaJhCfMtP7zEccxGW3iYgP25CUBFiVVTuHZCpxB1Yce/68.png"
-                      alt="Awesome Image"
-                    />
+                    <img src="/images/5.svg" alt="Awesome Image" />
                   </a>
                   <a href="#" className="pager-item" data-slide-index="5">
-                    <img
-                      src="https://gateway.pinata.cloud/ipfs/QmScaJhCfMtP7zEccxGW3iYgP25CUBFiVVTuHZCpxB1Yce/11.png"
-                      alt="Awesome Image"
-                    />
+                    <img src="/images/12.svg" alt="Awesome Image" />
                   </a>
                 </div>
               </div>
